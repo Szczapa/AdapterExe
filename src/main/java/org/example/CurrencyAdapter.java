@@ -20,5 +20,4 @@ public class CurrencyAdapter implements ICurrencyAdapter {
                     + fromCurrency + " et " + toCurrency);
         };
     }
-
 }
